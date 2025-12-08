@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-# My Name is Ahmad Maulana Maky
-# I am student at Brawijaya University with Computer Engineering Class
+My Name is Ahmad Maulana Maky
 
-# I interest at DevOps, Automation, and Kubernetes.
+👨‍🎓 I am student at Brawijaya University with Computer Engineering Class
 
-# Fun fact:
+👽 I interest at DevOps, Automation, and Kubernetes.
+
+### Fun fact:
 - I really like use open source such as Linux
 - I am so interest everything configuration file with YAML.
 <!--
