@@ -9,7 +9,7 @@ My Name is Ahmad Maulana Maky
 ### Fun fact:
 - I really like use open source such as Linux
 - I am so interest everything configuration file with YAML
-- Convert Manual Console to IaC is fun!
+- Convert Manual Console to IaC is fun
 <!--
 **maulanamaky/maulanamaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
