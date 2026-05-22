@@ -2,14 +2,15 @@
 
 My Name is Ahmad Maulana Maky
 
-👨‍🎓 I am student at Brawijaya University at Computer Engineering Class
+👨‍🎓 I am student in Computer Engineering.
 
-👽 I am interest at DevOps & Cloud Technology.
+👽 I am interest in Embedded System, DevOps & Cloud Technology.
 
 ### Fun fact:
 - I really like use open source such as Linux
 - I am so interest everything configuration file with YAML
 - Convert Manual Console to IaC is fun
+- Do manage memory efficient is challenging for small memory computer
 <!--
 **maulanamaky/maulanamaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
