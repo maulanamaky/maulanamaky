@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-My Name is Ahmad Maulana Maky
+My name is Ahmad Maulana Maky
 
 👨‍🎓 I am student in Computer Engineering.
 
-👽 I am interest in Embedded System, DevOps & Cloud Technology.
+👽 I am interested in Embedded System, DevOps & Cloud Technology.
 
 ### Fun fact:
 - I really like use open source such as Linux
 - I am so interest everything configuration file with YAML
-- Convert Manual Console to IaC is fun
+- Convert Console to IaC is fun
 - Do manage memory efficient is challenging for small memory computer
 <!--
 **maulanamaky/maulanamaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
